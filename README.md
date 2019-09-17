@@ -1,4 +1,3 @@
-`go build` from the root of this repository. Run the compiled binary.
-`go build` from outside the root of this repository. Run the compiled binary.
-
-Understand the difference.
+1. `go build` from the root of this repository. Run the compiled binary.
+1. ` go build` from outside the root of this repository. Run the compiled binary.
+1. Understand the difference.
